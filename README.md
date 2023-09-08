@@ -37,7 +37,7 @@ Get started with the following resources:
 > **[Students](https://aka.ms/student-page)**: to use this curriculum on your own, fork the entire repo and complete the exercises on your own, starting with a pre-lecture quiz.  Then read the lecture and complete the rest of the activities. Try to create the projects by comprehending the lessons rather than copying the solution code; however, that code is available in the /solutions folders in each project-oriented lesson. Another idea would be to form a study group with friends and go through the content together. For further study, we recommend [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-77958-bethanycheum).
 
 ## Meet the Team
-
+Aaron 
 [![Promo video](ds-for-beginners.gif)](https://youtu.be/8mzavjQSMM4 "Promo video")
 
 **Gif by** [Mohit Jaisal](https://www.linkedin.com/in/mohitjaisal)
